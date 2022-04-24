@@ -1,0 +1,8 @@
+.header-wordle{
+    text-align: center;
+    background: black;
+    color: turquoise;
+    box-shadow: 4px 2px 5px turquoise;
+    padding: .7rem .1rem;
+    z-index: 9;
+}
