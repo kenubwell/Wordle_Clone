@@ -12,7 +12,6 @@ const Board = () => {
                 <LetterValue letterPosition={2} attemptedValue= {0}/>
                 <LetterValue letterPosition={3} attemptedValue= {0}/>
                 <LetterValue letterPosition={4} attemptedValue= {0}/>
-                <LetterValue letterPosition={5} attemptedValue= {0}/>
             </div>
             <div className="board-row">
                 <LetterValue letterPosition={0} attemptedValue= {1}/>
@@ -20,7 +19,6 @@ const Board = () => {
                 <LetterValue letterPosition={2} attemptedValue= {1}/>
                 <LetterValue letterPosition={3} attemptedValue= {1}/>
                 <LetterValue letterPosition={4} attemptedValue= {1}/>
-                <LetterValue letterPosition={5} attemptedValue= {1}/>
             </div>
             <div className="board-row">
                 <LetterValue letterPosition={0} attemptedValue= {2}/>
@@ -28,7 +26,6 @@ const Board = () => {
                 <LetterValue letterPosition={2} attemptedValue= {2}/>
                 <LetterValue letterPosition={3} attemptedValue= {2}/>
                 <LetterValue letterPosition={4} attemptedValue= {2}/>
-                <LetterValue letterPosition={5} attemptedValue= {2}/>
             </div>
             <div className="board-row">
                 <LetterValue letterPosition={0} attemptedValue= {3}/>
@@ -36,7 +33,6 @@ const Board = () => {
                 <LetterValue letterPosition={2} attemptedValue= {3}/>
                 <LetterValue letterPosition={3} attemptedValue= {3}/>
                 <LetterValue letterPosition={4} attemptedValue= {3}/>
-                <LetterValue letterPosition={5} attemptedValue= {3}/>
             </div>
             <div className="board-row">
                 <LetterValue letterPosition={0} attemptedValue= {4}/>
@@ -44,7 +40,6 @@ const Board = () => {
                 <LetterValue letterPosition={2} attemptedValue= {4}/>
                 <LetterValue letterPosition={3} attemptedValue= {4}/>
                 <LetterValue letterPosition={4} attemptedValue= {4}/>
-                <LetterValue letterPosition={5} attemptedValue= {4}/>
             </div>
             <div className="board-row">
                 <LetterValue letterPosition={0} attemptedValue= {5}/>
@@ -52,7 +47,6 @@ const Board = () => {
                 <LetterValue letterPosition={2} attemptedValue= {5}/>
                 <LetterValue letterPosition={3} attemptedValue= {5}/>
                 <LetterValue letterPosition={4} attemptedValue= {5}/>
-                <LetterValue letterPosition={5} attemptedValue= {5}/>
             </div>
         </div>
      );
