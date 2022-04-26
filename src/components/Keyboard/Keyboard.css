@@ -27,3 +27,7 @@
     justify-content: center;
     margin: 5px;
   }
+
+  #disabled {
+    background-color: #3a393c;
+  }
