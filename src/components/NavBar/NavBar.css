@@ -1,6 +1,6 @@
 .header-backdrop{
     background: purple;
-    color: gold;
+    color: white;
     box-shadow: 4px 2px 5px gold;
     padding: .4rem .1rem;
     display: flex;
@@ -11,12 +11,12 @@
 }
 
 .header-image-left{
-    height: 45px;
+    height: 46px;
     padding-left: 2rem;
 }
 
 .header-image-right{
-    height: 45px;
+    height: 46px;
     padding-right: 2rem;
 }
 
