@@ -1,5 +1,26 @@
 .game-over{
-    color: white;
+    color: black;
     text-align: center;
     padding-top: 30px;
 }
+
+.correct-guess{
+padding-top: .5rem;
+padding-bottom: .5rem;
+    
+}
+
+.correct-word{
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    box-shadow: 4px 2px 5px gold;
+    border-radius: 10px;
+    margin-left: .3rem;
+    padding-left: .1rem;
+    padding-top: .1rem;
+    padding-bottom: .1rem;
+    padding-right: .3rem;
+    background-color: purple;
+}
+

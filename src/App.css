@@ -9,7 +9,7 @@
 .App{
 height: 100vh;
 width: 100vw;
-background-color: black;
+background-color: gainsboro;
 }
 
 .game {
@@ -17,7 +17,7 @@ background-color: black;
   height: calc(100vh - 170px);
   display: flex;
   align-items: center;
-  padding-top: 50px;
+  padding-top: 40px;
   flex-direction: column;
 }
 

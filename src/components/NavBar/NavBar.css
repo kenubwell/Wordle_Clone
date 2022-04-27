@@ -1,8 +1,22 @@
-.header-wordle{
-    text-align: center;
-    background: black;
-    color: turquoise;
-    box-shadow: 4px 2px 5px turquoise;
-    padding: .7rem .1rem;
+.header-backdrop{
+    background: purple;
+    color: gold;
+    box-shadow: 4px 2px 5px gold;
+    padding: .4rem .1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     z-index: 9;
+
 }
+
+.header-image-left{
+    height: 45px;
+    padding-left: 2rem;
+}
+
+.header-image-right{
+    height: 45px;
+    padding-right: 2rem;
+}
+

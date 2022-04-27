@@ -1,7 +1,8 @@
 .letter-val {
     flex: 33%;
     height: 100%;
-    border: 1px solid grey;
+    border: 1px solid gold;
+    border-radius: 5px;
     margin: 5px;
     display: grid;
     place-items: center;
@@ -12,14 +13,14 @@
   }
 
   #correct {
-    background-color: #528d4e;
+    background-color: darkgreen;
   }
   
   #almost {
-    background-color: #b49f39;
+    background-color: darkgoldenrod;
   }
   
   #wrong {
-    background-color: #3a393c;
+    background-color: black;
   }
   

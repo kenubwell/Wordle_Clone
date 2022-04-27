@@ -1,9 +1,13 @@
 .board-contain {
     width: 450px;
     height: 550px;
-    border: 1px solid black;
+    border: 1px solid purple;
     display: flex;
     flex-direction: column;
+    background-color: purple;
+    box-shadow: 4px 2px 5px gold;
+    padding-bottom: 1rem;
+    border-radius: 20px;
   }
 
 .board-row {

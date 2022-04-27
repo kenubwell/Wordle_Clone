@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import './App.css';
 import NavBar from './components/NavBar/NavBar';
+import Footer from "./components/Footer/Footer";
 import Board from "./components/Board/Board";
 import Keyboard from "./components/Keyboard/Keyboard";
 import {defaultBoard, generateWordSet} from "./components/WordsMatrix/WordsMatrix";
@@ -76,7 +77,7 @@ function App() {
           {gameOver.gameOver ? <GameOver/> : <Keyboard/>}
         </div>
       </AppContext.Provider>
-
+      <Footer/>
     </div>
   );
 }
