@@ -1,7 +1,7 @@
 # Wordle Clone using ReactJS
 
 Ravens Wordle
-<img src="/public/images/ravens_wordle.jpg">
+<img src="/public/images/ravens-wordle.jpg">
 
 Wordle Correct Guess
 <img src="/public/images/wordle-correct-guess.jpg">
